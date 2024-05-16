@@ -177,6 +177,7 @@ main{
     align-items: center;
     border-radius: 50%;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
 }
 .tech-stack-right img{
     height: 1.5rem;
